@@ -1,0 +1,54 @@
+body{
+
+    background-color: rgb(211, 175, 164);
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+h1{
+    margin: 30px;
+    font-family: 'Tangerine', serif;
+    font-size: 8rem;
+    font-weight: 700;
+    text-shadow: 4px 4px 4px rgb(141, 47, 47);
+}
+
+h4{
+    font-family: 'Rampart One', cursive;
+    text-shadow: 2px 2px 2px rgb(141, 47, 47);
+}
+
+img{
+    width: 80%;
+}
+footer{
+    margin-top: 120px;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+}
+
+.btn {
+
+    margin: 10px auto 5px auto;
+    display: block;
+    background-color: rgb(141, 47, 47);
+    width: 200px;
+    transition: 0.3s ease;
+    
+}
+
+.btn:hover {
+
+    background-color: rgb(197, 127, 105);
+}
+
+.btnContainer{
+
+    margin: 70px auto 5px auto;
+    display: block;
+}
